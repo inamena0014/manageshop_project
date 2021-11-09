@@ -1,0 +1,1 @@
+# manageshop_project
